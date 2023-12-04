@@ -1,0 +1,15 @@
+figure {
+    height: 15em;
+    overflow: hidden;
+    
+}
+
+.card{
+    /*background-image: url('../assets/Logo.png');*/
+    background: linear-gradient(0deg, rgba(32,2,2,1) 31%, rgba(228,16,23,0.767927239255077) 100%);
+    background-repeat: no-repeat;
+    background-attachment:inherit;
+    background-position: center; 
+    background-size: cover;
+}
+
